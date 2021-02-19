@@ -1,0 +1,27 @@
+h1{
+    color :#000000;
+    font-style: italic;
+    font-family: Arial;
+    opacity: '0';
+}
+*{
+    color : #000000;
+    font-family: 'Courier New', Courier, monospace;
+}
+.header{
+    background-color: rgb(255, 174, 0);
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+body{
+    background-color: rgb(99, 255, 15);
+}
